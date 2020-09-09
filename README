@@ -1,0 +1,43 @@
+=========================================================
+==           Betrayal at House on the Hill             ==
+=========================================================
+
+All work performed by Russell Lewis
+
+1) Differences to standard board game
+--------------------------------------
+
+Several things have been rebalanced to provide a more entertaining playthrough.
+The way some items and combat work have been simplified as a result.
+There is a single haunt that has been balanced to work best in this format.
+
+2) How to play
+--------------------------------------
+Simply run "betrayal.jar". All fonts should display correctly, but if not install the font in the fonts folder.
+Extra instructions popup at game launch.
+
+Program is meant for a 1920x1080 resolution. It may be necessary to hide taskbar if there is not enough space on your screen.
+
+*If you are unable to explore to a new room, you have explored all avaliable rooms on that floor*
+
+
+
+3)Features
+--------------------------------------
+*Full voice acting for all 6 archetypes
+*5 music tracks
+*Full graphic gui
+*Easy addition of future items, omens, events, and characters
+*Designed for 1080p
+
+4) Attribution of non CC0 items used
+
+Gui items made from parts of "Dungeon Crawler Sprites" by Ashiroxzer (http://opengameart.org/content/dungeon-tbs)
+"door_open.wav" by InspectorJ (www.jshaw.co.uk) of Freesound.org
+"background.wav", "badend.wav", "haunt.wav", "event.wav" by Setuniman (www.freesound.org/people/setuniman/) of Freesound.org
+"bell3.wav" by DavidJuradoh of Freesound.org
+"goodend.wav" by ShadyDave of Freesound.org
+All tile, character, and token images are from Betrayal at House on the Hill by Wizards of the Coast as per their fan content policy.
+
+All other foley was either self recorded or CC0 material.
+All voice acting was recorded for this specific project from various voice actors under a non-commercial license.
